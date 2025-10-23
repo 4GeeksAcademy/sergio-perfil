@@ -1,1 +1,50 @@
+template: "online-cv"
+skin: "blue"
 
+basic_info:
+  first_name: Sergio
+  last_name: Cáceres Basallote
+  motto: Gestión pública con datos
+  focus: RRHH, Educación y Autónomos
+  summary: |
+    Concejal en Conil de la Frontera con experiencia en recursos humanos,
+    presupuestos municipales y apoyo a autónomos.  
+    En formación en ciencia de datos para aplicar análisis y automatización
+    a la gestión pública.
+  avatar: https://randomuser.me/api/portraits/men/24.jpg
+  email: tuemail@ejemplo.com
+  github: sergiocaceresbas
+
+education:
+  - degree: Formación en Ciencia de Datos
+    university: 4Geeks Academy
+    time: 2025 - En curso
+    details: |
+      Fundamentos de Python, Pandas y control de versiones con Git/GitHub.
+
+experiences:
+  - role: Concejal de RRHH, Educación y Autónomos
+    time: 2019 - Presente
+    company: Ayuntamiento de Conil
+    details: |
+      - Gestión de recursos humanos y presupuestos municipales.
+      - Programas educativos y sociales.
+      - Apoyo a autónomos y empresas locales.
+
+projects:
+  intro: >
+    Algunos proyectos realizados en formación y gestión pública.
+  assignments:
+    - title: Student Showcase Profile
+      link: "https://github.com/sergiocaceresbas/mi-perfil"
+      tagline: "Mi primer perfil público como desarrollador."
+    - title: Monthly Sales Analyzer
+      link: "https://github.com/sergiocaceresbas/monthly-sales-analyzer-project"
+      tagline: "Análisis de ventas en Python."
+
+skills:
+  toolset:
+    - name: Gestión pública y RRHH
+    - name: Python básico
+    - name: Git & GitHub
+    - name: Comunicación
